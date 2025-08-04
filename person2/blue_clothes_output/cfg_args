@@ -1,0 +1,1 @@
+Namespace(sh_degree=3, source_path='/content/data/person2/blue_clothes', model_path='/content/blue_clothes_output', images='images', depths='', resolution=-1, white_background=False, train_test_exp=False, data_device='cuda', eval=False)
